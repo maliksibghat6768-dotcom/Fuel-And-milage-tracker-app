@@ -1,5 +1,10 @@
 
-# User Manual — Fuel & Mileage Tracker
+                                                 # User Manual — Fuel & Mileage Tracker
+
+
+
+
+
 
 ## Introduction
 
@@ -54,6 +59,34 @@ Fuel & Mileage Tracker is an Android application designed to help users manage f
 * Ensure the app has required permissions.
 * Restart the app if data is not updating properly.
 * Reinstall the APK if installation fails.
+
+
+
+
+
+
+
+
+
+                                                                                        Privacy Policy
+
+
+
+Fuel & Mileage Tracker respects user privacy.
+
+This application does not collect, store, or share personal user information with third parties. All fuel records and mileage data are stored locally on the user’s device for educational and project purposes only.
+
+The application may request certain permissions such as storage access or location access only for application functionality.
+
+No sensitive personal information is collected or transmitted online.
+
+This project is developed for educational purposes as part of a Mobile App Development semester project.
+
+
+
+
+
+
 
 ---
 
