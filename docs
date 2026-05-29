@@ -1,1 +1,67 @@
 
+# User Manual — Fuel & Mileage Tracker
+
+## Introduction
+
+Fuel & Mileage Tracker is an Android application designed to help users manage fuel expenses and calculate vehicle mileage efficiently.
+
+---
+
+## How to Install
+
+1. Download the APK file.
+2. Open the APK on your Android device.
+3. Allow installation from unknown sources if required.
+4. Install the app.
+
+---
+
+## How to Use the Application
+
+### Add Fuel Entry
+
+* Open the app.
+* Enter fuel amount, cost, and odometer reading.
+* Save the entry.
+
+### View Fuel History
+
+* Open the History section.
+* View previous fuel records.
+
+### Mileage Calculation
+
+* The application automatically calculates mileage based on odometer readings and fuel usage.
+
+### Statistics Dashboard
+
+* View fuel expense analysis and mileage statistics.
+
+---
+
+## Features
+
+* Fuel tracking
+* Mileage calculation
+* Expense management
+* Fuel history records
+* Statistics dashboard
+
+---
+
+## Troubleshooting
+
+* Ensure the app has required permissions.
+* Restart the app if data is not updating properly.
+* Reinstall the APK if installation fails.
+
+---
+
+## Developer Information
+
+Developed by:
+
+* Sibghat Ullah
+* M. Ahsan
+
+BS IT E 6TH Semester
