@@ -101,6 +101,34 @@ BS IT E 6TH Semester
 M. Ahsan
 BS IT E 6TH Semester
 
+
+
+
+
+
+
+                                           LICENCE
+                                          MIT License
+
+Copyright (c) 2026
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files to use the project for educational purposes.
+
+This project is provided "as is", without warranty of any kind.
+
+
+
+
+                                                    .gitignore
+                                                    .gradle
+/local.properties
+/.idea
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+                             
 ---
 
 Project Type
